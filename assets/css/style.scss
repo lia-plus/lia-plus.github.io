@@ -1,0 +1,8 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Esconde o botão padrão do GitHub no cabeçalho */
+.page-header .btn {
+    display: none !important;
+}
