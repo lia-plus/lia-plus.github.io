@@ -1,0 +1,14 @@
+# Arquivos de troca (swap) do Vim
+*.swp
+*.swo
+*.swn
+.*.swp
+.*.swo
+.*.swn
+
+# Arquivos de backup e histórico de desfazer (undo)
+*~
+*.un~
+
+# Histórico de navegação de arquivos do próprio Vim
+.netrwhist
