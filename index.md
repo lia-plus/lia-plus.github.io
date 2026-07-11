@@ -34,12 +34,12 @@ Voltado à produção científica de pós-graduação stricto sensu — mestrado
 *(Site em estruturação)*  
 Voltado à produção acadêmica de graduação e iniciação científica.
 
-### 🎓 LIA+ Estatística Multivariada
-*(Site em estruturação)*
+### 📈 LIA+ Estatística Multivariada
+*(Site em estruturação)*  
 Aproveita a sinergia entre inteligência artificial, ciência de dados e estatística multivariada.
 
-### 🌿 LIA+ Pessoas Especiais
-*(Site em estruturação)*
+### 🤝 LIA+ Pessoas Especiais
+*(Site em estruturação)*  
 Trabalha com inteligência artificial, ciência de dados e computação para pessoas com necessidades especiais: surdos, cegos, deficientes físicos, e órfãos e neuroatípicos.
 
 ---
