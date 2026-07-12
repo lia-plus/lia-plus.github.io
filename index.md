@@ -1,50 +1,58 @@
-O **LIA+** (Laboratório de Inteligência Artificial e Tecnologias Disruptivas) atua como um hub tecnológico de inovação, unindo o rigor acadêmico da USP com a agilidade do mercado para resolver problemas reais e complexos.
+O **LIA+** (Laboratório de Inteligência Artificial e Tecnologias Disruptivas) é uma rede de pesquisa vinculada à ESALQ/USP que integra produção científica de excelência e aplicação tecnológica orientada ao mercado. Nosso objetivo é transformar dados e inteligência artificial em soluções reais para os setores produtivo, ambiental e social.
 
 ## Nossa Estrutura
-A rede LIA+ opera de forma descentralizada e integrada, composta pelas seguintes frentes de pesquisa:
 
-### 🌾 [LIA+ AgriFood](/agrifood/)
-Focado em Inteligência Artificial e tecnologias exponenciais aplicadas a Sistemas Agroalimentares, rastreabilidade e otimização de cadeias produtivas.
+A rede LIA+ opera de forma descentralizada e integrada, composta por frentes de pesquisa e inovação e por núcleos de formação e produção científica.
 
-### 🤖 LIA+ Robôs e Aplicativos
+### Frentes de Pesquisa e Inovação
+
+#### 📈 LIA+ Estatística e Ciência de Dados
 *(Site em estruturação)*  
-Focado em Inteligência Artificial aplicada a robótica, sistemas embarcados e desenvolvimento de aplicativos para os setores produtivo e industrial.
+Métodos estatísticos avançados e ciência de dados aplicados à análise exploratória, modelagem preditiva e suporte quantitativo a projetos de pesquisa e decisão empresarial.
 
-### 🌿 LIA+ EcoBio
-*(Site em estruturação)*  
-Focado em Inteligência Artificial e modelagem computacional aplicadas a ecologia, biodiversidade e ciências ambientais.
+#### 🌾 [LIA+ AgriFood](/agrifood/)
+Inteligência Artificial e tecnologias exponenciais aplicadas a Sistemas Agroalimentares, rastreabilidade e otimização de cadeias produtivas.
 
-### 🏥 LIA+ Saúde
+#### 🤖 LIA+ Robôs e Aplicativos
 *(Site em estruturação)*  
-Focado em Inteligência Artificial e tecnologias disruptivas aplicadas à área da saúde e ao diagnóstico baseado em dados.
+Inteligência Artificial aplicada a robótica, sistemas embarcados e desenvolvimento de aplicativos para os setores produtivo e industrial.
 
-### 📊 LIA+ Metrologia e Qualidade
+#### 🌿 LIA+ EcoBio
 *(Site em estruturação)*  
-Focado em sistemas de gestão da qualidade, metrologia laboratorial e certificações aplicadas ao setor produtivo (ISO 9001, ISO 17025, ISO 22000).
+Inteligência Artificial e modelagem computacional aplicadas a ecologia, biodiversidade e ciências ambientais.
 
-### 🏭 LIA+ Gestão
+#### 🏥 LIA+ Saúde
 *(Site em estruturação)*  
-Focado em gestão data-driven, sistemas de qualidade (Toyota, ISO) e consultoria estratégica para empresas e organizações dos setores primário, secundário e terciário.
+Inteligência Artificial e tecnologias disruptivas aplicadas à saúde e ao diagnóstico baseado em dados.
 
-### 🎓 LIA+ Teses e Dissertações
+#### 📊 LIA+ Metrologia e Qualidade
 *(Site em estruturação)*  
-Voltado à produção científica de pós-graduação stricto sensu — mestrado, doutorado e pós-doutorado.
+Sistemas de gestão da qualidade, metrologia laboratorial e certificações aplicadas ao setor produtivo (ISO 9001, ISO 17025, ISO 22000).
 
-### 📝 LIA+ Monografias, TCCs e ICs
+#### 🏭 LIA+ Gestão
 *(Site em estruturação)*  
-Voltado à produção acadêmica de graduação e iniciação científica.
+Gestão data-driven, sistemas de qualidade (Toyota, ISO) e consultoria estratégica para empresas e organizações dos setores primário, secundário e terciário.
 
-### 📈 LIA+ Estatística Multivariada
+#### ♿ LIA+ Tecnologia Assistiva
 *(Site em estruturação)*  
-Aproveita a sinergia entre inteligência artificial, ciência de dados e estatística multivariada.
+Inteligência Artificial e ciência de dados aplicadas ao desenvolvimento de soluções de acessibilidade e inclusão digital para pessoas com deficiência visual, auditiva, motora e neuroatípicos.
 
-### 🤝 LIA+ Pessoas Especiais
+---
+
+### Núcleos de Formação e Produção Científica
+
+#### 🎓 LIA+ Teses e Dissertações
 *(Site em estruturação)*  
-Trabalha com inteligência artificial, ciência de dados e computação para pessoas com necessidades especiais: surdos, cegos, deficientes físicos, e órfãos e neuroatípicos.
+Produção científica de pós-graduação stricto sensu — mestrado, doutorado e pós-doutorado.
+
+#### 📝 LIA+ Monografias, TCCs e ICs
+*(Site em estruturação)*  
+Produção acadêmica de graduação e iniciação científica.
 
 ---
 
 ## Modelo de Atuação
+
 Nosso ecossistema foi desenhado para criar uma ponte direta entre a fronteira do conhecimento científico e a iniciativa privada. Atuamos com base em três pilares:
 
 1. **Pesquisa Aplicada:** Projetos com viés de mercado e escalabilidade.
