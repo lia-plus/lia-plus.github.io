@@ -10,10 +10,12 @@ Este repositório contém o código-fonte do site guarda-chuva da rede LIA+, con
 
 ## Estrutura
 
+```
 lia-plus.github.io/
 ├── index.md          # Página principal
 ├── _config.yml       # Configurações do Jekyll
 └── assets/           # Imagens e arquivos estáticos
+```
 
 ## Contribuindo
 
