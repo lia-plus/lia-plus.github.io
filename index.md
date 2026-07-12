@@ -58,3 +58,9 @@ Nosso ecossistema foi desenhado para criar uma ponte direta entre a fronteira do
 1. **Pesquisa Aplicada:** Projetos com viés de mercado e escalabilidade.
 2. **Captação Estratégica:** Validação tecnológica via agências de fomento (FAPESP, FINEP, CNPq).
 3. **Parcerias Corporativas:** Integração com grandes atores do setor produtivo.
+
+---
+
+<div align="center" style="font-size: 0.9em; color: #666; margin-top: 40px;">
+  &copy; 2026 LIA+ · ESALQ/USP · CENA/USP · <a href="https://lia-plus.github.io">lia-plus.github.io</a>
+</div>
