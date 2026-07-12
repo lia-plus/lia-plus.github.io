@@ -11,3 +11,8 @@
 h4 {
     font-weight: bold !important;
 }
+
+/* Esconde o rodapé padrão do GitHub */
+.site-footer {
+    display: none !important;
+}
