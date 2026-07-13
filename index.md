@@ -15,7 +15,7 @@ Inteligência Artificial e tecnologias exponenciais aplicadas a Sistemas Agroali
 
 #### 🤖 LIA+ Edge AI & IoT
 *(Site em estruturação)*  
-Inteligência Artificial aplicada a robótica, sistemas embarcados e desenvolvimento de aplicativos para os setores produtivo e industrial.
+Inteligência Artificial embarcada e Internet das Coisas (IoT) aplicadas a hardwares inteligentes, sensoriamento e aquisição de dados para os setores produtivo e agroambiental.
 
 #### 🌿 LIA+ EcoBio
 *(Site em estruturação)*  
