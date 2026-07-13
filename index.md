@@ -29,9 +29,10 @@ Inteligência Artificial e tecnologias disruptivas aplicadas à saúde e ao diag
 *(Site em estruturação)*  
 Sistemas de gestão da qualidade, metrologia laboratorial e certificações aplicadas ao setor produtivo (ISO 9001, ISO 17025, ISO 22000).
 
-#### 🏭 LIA+ Gestão
+#### 🏭 LIA+ Pesquisa, Gestão e Certificação
 *(Site em estruturação)*  
-Gestão data-driven, sistemas de qualidade (Toyota, ISO) e consultoria estratégica para empresas e organizações dos setores primário, secundário e terciário.
+Pesquisa: _Machine Learning_ (todos os tipos utilizados em Analytics) e ciência de dados robusta multivariada.
+Gestão data-driven, sistemas de qualidade (Toyota, BSC, Lean Startup), certificação (ISO, Global Gap, FSC) e consultoria estratégica para empresas e organizações dos setores primário, secundário e terciário.
 
 #### ♿ LIA+ Tecnologia Assistiva
 *(Site em estruturação)*  
