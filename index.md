@@ -13,7 +13,7 @@ Métodos estatísticos avançados e ciência de dados aplicados à análise expl
 #### 🌾 [LIA+ AgriFood](/agrifood/)
 Inteligência Artificial e tecnologias exponenciais aplicadas a Sistemas Agroalimentares, rastreabilidade e otimização de cadeias produtivas.
 
-#### 🤖 LIA+ Robôs e Aplicativos
+#### 🤖 LIA+ Edge AI & IoT
 *(Site em estruturação)*  
 Inteligência Artificial aplicada a robótica, sistemas embarcados e desenvolvimento de aplicativos para os setores produtivo e industrial.
 
