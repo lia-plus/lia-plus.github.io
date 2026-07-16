@@ -1,4 +1,4 @@
-O **LIA+** (Laboratório de Inteligência Artificial e Tecnologias Disruptivas) é uma rede de pesquisa vinculada à ESALQ/USP que integra produção científica de excelência e aplicação tecnológica orientada ao mercado. Nosso objetivo é transformar dados e inteligência artificial em soluções reais para os setores produtivo, ambiental e social.
+A rede **LIA+** é um núcleo de pesquisa e desenvolvimento integrado às iniciativas **IA+/CNPq** dos departamentos **LCE** e **LES** da **ESALQ/USP** e do **CENA/USP**. Nosso objetivo é unir a produção científica de excelência à agilidade da inovação tecnológica, transformando dados e inteligência artificial em soluções reais para os setores produtivo, ambiental e social.
 
 ## Nossa Estrutura
 
