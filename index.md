@@ -6,7 +6,7 @@ A rede LIA+ opera de forma descentralizada e integrada, composta por frentes de 
 
 ### Frentes de Pesquisa e Inovação
 
-#### 📈 LIA+ Estatística e Ciência de Dados
+#### 📈 LIA+ Estatística Multivariada e Ciência de Dados
 *(Site em estruturação)*  
 Métodos estatísticos avançados e ciência de dados aplicados à análise exploratória, modelagem preditiva e suporte quantitativo a projetos de pesquisa e decisão empresarial.
 
