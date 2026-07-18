@@ -1,28 +1,18 @@
-A rede **LIA+** é um núcleo de pesquisa e desenvolvimento integrado às iniciativas **IA+/CNPq** dos departamentos **LCE** e **LES** da **ESALQ/USP** e do **CENA/USP**. Nosso objetivo é unir a produção científica de excelência à agilidade da inovação tecnológica, transformando dados e inteligência artificial em soluções reais para os setores produtivo, ambiental e social.
+A rede **LIA+** é um núcleo de pesquisa e desenvolvimento integrado às iniciativas **IA+/CNPq** dos departamentos **LCE** e **LES** da **ESALQ/USP** e do **CENA/USP**. Unimos a produção científica de excelência à agilidade da inovação, transformando dados e inteligência artificial em soluções reais para os setores produtivo, ambiental e social.
 
 ## Nossa Estrutura
 
-A rede LIA+ opera de forma descentralizada e integrada, composta por frentes de pesquisa e inovação e por núcleos de formação e produção científica.
+A rede LIA+ opera de forma descentralizada e integrada, organizada em um modelo matricial que conecta plataformas tecnológicas transversais a aplicações específicas de mercado.
 
-### Frentes de Pesquisa e Inovação
+### 1. Eixos Tecnológicos e Metodológicos (Motores)
+*Laboratórios que fornecem infraestrutura, desenvolvimento de software/hardware, métodos matemáticos e validação de qualidade para toda a rede.*
 
-#### 📈 LIA+ Estatística Multivariada e Ciência de Dados
+#### ⚙️ [LIA+ Engenharia de Sistemas Inteligentes](https://lia-plus.github.io/sistemas-inteligentes) 
+Foco em Inteligência Artificial com processamento na borda (*Edge AI* e *TinyML*), *IoT*, sensoriamento e desenvolvimento *full-stack*, para transformar modelos complexos em dispositivos e produtos reais.
+
+#### 📈 LIA+ Estatística Multivariada
 *(Site em estruturação)*  
-Métodos estatísticos avançados e ciência de dados aplicados à análise exploratória, modelagem preditiva e suporte quantitativo a projetos de pesquisa e decisão empresarial.
-
-#### 🌾 [LIA+ AgriFood](/agrifood/)
-Inteligência Artificial e tecnologias exponenciais aplicadas a Sistemas Agroalimentares, rastreabilidade e otimização de cadeias produtivas.
-
-#### ⚙️ [LIA+ Sistemas Embarcados e IoT](https://lia-plus.github.io/embarcados-iot) 
-Inteligência Artificial com processamento próximo à fonte de dados (Edge AI) e Internet das Coisas (IoT) aplicadas ao desenvolvimento de dispositivos inteligentes, sensoriamento e automação para os setores produtivo e agroambiental.
-
-#### 🌿 LIA+ EcoBio
-*(Site em estruturação)*  
-Inteligência Artificial e modelagem computacional aplicadas a ecologia, biodiversidade e ciências ambientais.
-
-#### 🏥 LIA+ Saúde
-*(Site em estruturação)*  
-Inteligência Artificial e tecnologias disruptivas aplicadas à saúde e ao diagnóstico baseado em dados.
+Métodos estatísticos avançados aplicados à análise exploratória, modelagem preditiva e suporte quantitativo a projetos de pesquisa e decisão empresarial.
 
 #### 📊 LIA+ Metrologia e Qualidade
 *(Site em estruturação)*  
@@ -30,16 +20,32 @@ Sistemas de gestão da qualidade, metrologia laboratorial e certificações apli
 
 #### 🏭 LIA+ Pesquisa, Gestão e Certificação
 *(Site em estruturação)*  
-Pesquisa: _Machine Learning_ (todos os tipos utilizados em Analytics) e ciência de dados robusta multivariada.
-Gestão data-driven, sistemas de qualidade (Toyota, BSC, Lean Startup), certificação (ISO, Global Gap, FSC) e consultoria estratégica para empresas e organizações dos setores primário, secundário e terciário.
-
-#### ♿ LIA+ Tecnologia Assistiva
-*(Site em estruturação)*  
-Inteligência Artificial e ciência de dados aplicadas ao desenvolvimento de soluções de acessibilidade e inclusão digital para pessoas com deficiência visual, auditiva, motora e neuroatípicos.
+Pesquisa: *Machine Learning* (todos os tipos utilizados em *Analytics*) e ciência de dados robusta multivariada. Gestão *data-driven*, sistemas de qualidade (Toyota, BSC, Lean Startup), certificação (ISO, Global Gap, FSC) e consultoria estratégica para organizações dos setores primário, secundário e terciário.
 
 ---
 
-### Núcleos de Formação e Produção Científica
+### 2. Verticais de Aplicação (Frentes de Mercado)
+*Laboratórios temáticos focados na aplicação das tecnologias para resolver problemas de setores específicos.*
+
+#### 🌾 [LIA+ AgriFood](/agrifood/)
+Inteligência Artificial e tecnologias exponenciais aplicadas a sistemas agroalimentares, rastreabilidade e otimização de cadeias produtivas.
+
+#### 🌿 LIA+ EcoBio
+*(Site em estruturação)*  
+Inteligência Artificial e modelagem computacional aplicadas à ecologia, biodiversidade e ciências ambientais.
+
+#### 🏥 LIA+ Saúde
+*(Site em estruturação)*  
+Inteligência Artificial e tecnologias disruptivas aplicadas à saúde e ao diagnóstico baseado em dados.
+
+#### ♿ LIA+ Tecnologia Assistiva
+*(Site em estruturação)*  
+Inteligência Artificial e ciência de dados aplicadas ao desenvolvimento de soluções de acessibilidade e inclusão digital para pessoas com deficiências visuais, auditivas, motoras e neuroatípicas.
+
+---
+
+### 3. Núcleos de Formação e Produção Científica
+*Estruturas dedicadas ao fomento acadêmico e publicações da rede.*
 
 #### 🎓 LIA+ Teses e Dissertações
 *(Site em estruturação)*  
