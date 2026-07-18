@@ -67,6 +67,23 @@ Nosso ecossistema foi desenhado para criar uma ponte direta entre a fronteira do
 
 ---
 
+## Publicações em Destaque
+
+A rede LIA+ constrói sua base de inovação sobre sólida produção científica. Abaixo, destacamos trabalhos recentes que guiam nossas linhas de pesquisa em Inteligência Artificial e rastreabilidade:
+
+**Artigos Científicos**
+
+* FERNANDES, E. A. D. N.; SARRIÉS, G. A.; BACCHI, M. A.; MAZOLA, Y. T.; GONZAGA, C. L.; SARRIÉS, S. R. V. Trace elements and machine learning for Brazilian beef traceability. **Food Chemistry**, v. 333, p. 127462, 2020. ISSN 0308-8146. 
+  * **Resumo:** Demonstração da viabilidade de combinar o teor de oligoelementos e algoritmos de *Machine Learning* (Multilayer Perceptron, Random Forest e CART) para rastreabilidade de carne bovina brasileira entre diferentes biomas.
+  * 🔗 [Acessar artigo na ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0308814620313248) | DOI: [10.1016/j.foodchem.2020.127462](https://doi.org/10.1016/j.foodchem.2020.127462)
+
+**Teses e Dissertações**
+
+* MUCOCORA, Apolinário Valentim João. **Produção de café no Brasil, perspectiva da inteligência artificial**. 2026. Dissertação (Mestrado) – Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo, Piracicaba, 2026. Orientador: Gabriel Adrian Sarries.
+  * 🔗 [Acessar dissertação na Biblioteca Digital USP](https://teses.usp.br/teses/disponiveis/11/11134/tde-07072026-102813/pt-br.html)
+
+---
+
 <div align="center" style="font-size: 0.9em; color: #666; margin-top: 40px;">
   &copy; 2026 LIA+ · ESALQ/USP · CENA/USP · <a href="https://lia-plus.github.io">lia-plus.github.io</a>
 </div>
