@@ -8,7 +8,7 @@ A rede LIA+ opera de forma descentralizada e integrada, organizada em um modelo 
 *Laboratórios que fornecem infraestrutura, desenvolvimento de software/hardware, métodos matemáticos e validação de qualidade para toda a rede.*
 
 #### ⚙️ [LIA+ Engenharia de Sistemas Inteligentes](https://lia-plus.github.io/sistemas-inteligentes) 
-Foco em Inteligência Artificial com processamento na borda (*Edge AI* e *TinyML*), *IoT*, sensoriamento e desenvolvimento *full-stack*, para transformar modelos complexos em dispositivos e produtos reais.
+Foco em Inteligência Artificial com processamento na borda (*Edge AI* e *TinyML*), *IoT*, sensoriamento e arquitetura de software, para transformar modelos complexos em dispositivos e produtos reais.
 
 #### 📈 LIA+ Estatística Multivariada
 *(Site em estruturação)*  
