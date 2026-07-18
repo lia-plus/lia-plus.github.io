@@ -74,7 +74,7 @@ A rede LIA+ constrói sua base de inovação sobre sólida produção científic
 **Artigos Científicos**
 
 * FERNANDES, E. A. D. N.; SARRIÉS, G. A.; BACCHI, M. A.; MAZOLA, Y. T.; GONZAGA, C. L.; SARRIÉS, S. R. V. Trace elements and machine learning for Brazilian beef traceability. **Food Chemistry**, v. 333, p. 127462, 2020. ISSN 0308-8146. 
-  * **Resumo:** Demonstração da viabilidade de combinar o teor de oligoelementos e algoritmos de *Machine Learning* (Multilayer Perceptron, Random Forest e CART) para rastreabilidade de carne bovina brasileira entre diferentes biomas.
+  * 🏆 **Prêmio Internacional:** 1º Lugar na categoria *Food Authenticity and Traceability* na *Food Chemistry Conference* (Elsevier). [Ver premiação oficial](https://web.archive.org/web/20191212033147/https://www.elsevier.com/events/conferences/food-chemistry-conference/programme/poster-winners)
   * 🔗 [Acessar artigo na ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0308814620313248) | DOI: [10.1016/j.foodchem.2020.127462](https://doi.org/10.1016/j.foodchem.2020.127462)
 
 **Teses e Dissertações**
