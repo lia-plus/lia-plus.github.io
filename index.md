@@ -30,6 +30,10 @@ Pesquisa: *Machine Learning* (todos os tipos utilizados em *Analytics*) e ciênc
 #### 🌾 [LIA+ AgriFood](/agrifood/)
 Inteligência Artificial e tecnologias exponenciais aplicadas a sistemas agroalimentares, rastreabilidade e otimização de cadeias produtivas.
 
+#### 🗣️ LIA+ Comunicação e Ambiente
+*(Site em estruturação)*  
+Inteligência Artificial e processamento de dados qualitativos (como MAXQDA) aplicados à compreensão das relações entre mídia, sociedade e meio ambiente.
+
 #### 🌿 LIA+ EcoBio
 *(Site em estruturação)*  
 Inteligência Artificial e modelagem computacional aplicadas à ecologia, biodiversidade e ciências ambientais.
