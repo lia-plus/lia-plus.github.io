@@ -10,6 +10,10 @@ A rede LIA+ opera de forma descentralizada e integrada, organizada em um modelo 
 #### ⚙️ [LIA+ Engenharia de Sistemas Inteligentes](https://lia-plus.github.io/sistemas-inteligentes) 
 Foco em Inteligência Artificial com processamento na borda (*Edge AI* e *TinyML*), *IoT*, sensoriamento e arquitetura de software, para transformar modelos complexos em dispositivos e produtos reais.
 
+#### ⚛️ LIA+ Computação Quântica
+*(Site em estruturação)*  
+Foco em computação quântica baseada em qubits, com desenvolvimento e experimentação em aprendizado de máquina quântico (Quantum Machine Learning - QML) para classificação, predição e simulação de sistemas complexos, e análise comparativa de desempenho clássico vs. quântico.
+
 #### 📈 LIA+ Estatística e Ciência de Dados
 *(Site em estruturação)*  
 Métodos estatísticos avançados aplicados à análise exploratória, modelagem preditiva e suporte quantitativo a projetos de pesquisa e decisão empresarial.
