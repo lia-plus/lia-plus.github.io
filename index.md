@@ -75,6 +75,14 @@ Nosso ecossistema foi desenhado para criar uma ponte direta entre a fronteira do
 
 ---
 
+## Cooperação Internacional e Redes de Colaboração
+
+A rede LIA+ mantém interlocução técnico-científica, projetos de cooperação e redes de colaboração com centros universitários internacionais de excelência e atores do setor produtivo:
+
+{% include partners.html %}
+
+---
+
 ## Publicações em Destaque
 
 A rede LIA+ constrói sua base de inovação sobre sólida produção científica. Abaixo, destacamos trabalhos recentes que guiam nossas linhas de pesquisa em Inteligência Artificial e rastreabilidade:
