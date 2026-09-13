@@ -1,5 +1,24 @@
 A rede **LIA+** é um núcleo de pesquisa e desenvolvimento integrado às iniciativas **IA+/CNPq** dos departamentos **LCE** e **LES** da **ESALQ/USP** e do **CENA/USP**. Unimos a produção científica de excelência à agilidade da inovação, transformando dados e inteligência artificial em soluções reais para os setores produtivo, ambiental e social.
 
+---
+
+## Nossa Essência
+
+> **Missão:** Desenvolver e aplicar metodologias avançadas em Inteligência Artificial, Ciência de Dados, modelagem estatística e engenharia computacional para sistemas complexos, integrando rigor analítico à criação de soluções tecnológicas para predição, suporte à decisão e inovação disruptiva.
+
+> **Visão (2030):** Consolidar-se até 2030 como núcleo de excelência e referência nacional e internacional em IA e computação aplicada a sistemas complexos, reconhecido pelo pioneirismo científico, robustez metodológica e formação de pesquisadores de alto impacto.
+
+### Nossos Valores
+
+* **Rigor Metodológico e Reprodutibilidade:** Compromisso irrestrito com a integridade dos dados, validação matemática consistente e reprodutibilidade de códigos e experimentos.
+* **Interdisciplinaridade e Adaptabilidade:** Integração entre teoria quantitativa e computação para solucionar problemas complexos em múltiplos domínios (agro, biossistemas, saúde, indústria e serviços).
+* **Ética, Transparência e Interpretabilidade:** Responsabilidade algorítmica centrada em dados auditáveis, governança e modelos inteligíveis (*Explainable AI - XAI*).
+* **Inovação Orientada a Impacto:** Foco em pesquisas e ferramentas que gerem avanço científico mensurável e soluções tecnológicas aplicadas a desafios reais.
+* **Colaboração e Autonomia Intelectual:** Ambiente cooperativo que estimula a liberdade investigativa, o pensamento crítico e a formação de talentos de alto nível.
+* **Alto Desempenho e Excelência:** Busca contínua pela vanguarda tecnológica, competitividade global e entregas de classe mundial.
+
+---
+
 ## Nossa Estrutura
 
 A rede LIA+ opera de forma descentralizada e integrada, organizada em um modelo matricial que conecta plataformas tecnológicas transversais a aplicações específicas de mercado.
