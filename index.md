@@ -37,6 +37,10 @@ Foco em computação quântica baseada em qubits, com desenvolvimento e experime
 *(Site em estruturação)*  
 Métodos estatísticos avançados aplicados à análise exploratória, modelagem preditiva e suporte quantitativo a projetos de pesquisa e decisão empresarial.
 
+#### 🧩 LIA+ Ciência de Dados *No-Code* / *Low-Code*
+*(Site em estruturação)*  
+Democratização da inteligência analítica por meio de plataformas visuais, ambientes Low-Code/No-Code e AutoML (Machine Learning Automatizado). Foco em prototipagem rápida, integração de pipelines de dados e capacitação de especialistas de domínio para desenvolvimento ágil de soluções preditivas sem dependência de programação intensiva.
+
 #### 📊 LIA+ Metrologia e Qualidade
 *(Site em estruturação)*  
 Sistemas de gestão da qualidade, metrologia laboratorial e certificações aplicadas ao setor produtivo (ISO 9001, ISO 17025, ISO 22000).
