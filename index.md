@@ -1,8 +1,10 @@
 A rede **LIA+** é um núcleo de pesquisa e desenvolvimento integrado às iniciativas **IA+/CNPq** dos departamentos **LCE** e **LES** da **ESALQ/USP** e do **CENA/USP**. Unimos a produção científica de excelência à agilidade da inovação, transformando dados e inteligência artificial em soluções reais para os setores produtivo, ambiental e social.
 
+{% include quick-nav.html %}
+
 ---
 
-## Nossa Essência
+## Nossa Essência {: #essencia }
 
 > **Missão:** Desenvolver e aplicar metodologias avançadas em Inteligência Artificial, Ciência de Dados, modelagem estatística e engenharia computacional para sistemas complexos, integrando rigor analítico à criação de soluções tecnológicas para predição, suporte à decisão e inovação disruptiva.
 
@@ -19,7 +21,7 @@ A rede **LIA+** é um núcleo de pesquisa e desenvolvimento integrado às inicia
 
 ---
 
-## Nossa Estrutura
+## Nossa Estrutura {: #estrutura }
 
 A rede LIA+ opera de forma descentralizada e integrada, organizada em um modelo matricial que conecta plataformas tecnológicas transversais a aplicações específicas de mercado.
 
@@ -88,7 +90,7 @@ Produção acadêmica de graduação e iniciação científica.
 
 ---
 
-## Modelo de Atuação
+## Modelo de Atuação {: #modelo-atuacao }
 
 Nosso ecossistema foi desenhado para criar uma ponte direta entre a fronteira do conhecimento científico e a iniciativa privada. Atuamos com base em três pilares:
 
@@ -98,7 +100,7 @@ Nosso ecossistema foi desenhado para criar uma ponte direta entre a fronteira do
 
 ---
 
-## Cooperação Internacional e Redes de Colaboração
+## Cooperação Internacional e Redes de Colaboração {: #cooperacao }
 
 A rede LIA+ mantém interlocução técnico-científica, projetos de cooperação e redes de colaboração com centros universitários internacionais de excelência e atores do setor produtivo:
 
@@ -106,7 +108,7 @@ A rede LIA+ mantém interlocução técnico-científica, projetos de cooperaçã
 
 ---
 
-## Publicações em Destaque
+## Publicações em Destaque {: #publicacoes }
 
 A rede LIA+ constrói sua base de inovação sobre sólida produção científica. Abaixo, destacamos trabalhos recentes que guiam nossas linhas de pesquisa em Inteligência Artificial e rastreabilidade:
 
