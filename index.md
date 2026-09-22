@@ -116,7 +116,7 @@ A rede LIA+ constrói sua base de inovação sobre sólida produção científic
   * 🏆 **Prêmio Internacional:** 1º Lugar na categoria *Food Authenticity and Traceability* na *Food Chemistry Conference* (Elsevier). [Ver premiação oficial](https://web.archive.org/web/20191212033147/https://www.elsevier.com/events/conferences/food-chemistry-conference/programme/poster-winners)
   * 🔗 [Acessar artigo na ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0308814620313248) | DOI: [10.1016/j.foodchem.2020.127462](https://doi.org/10.1016/j.foodchem.2020.127462)
 
-<br>
+<div style="height: 10px;"></div>
 
 * SILVA, S. V. da; FURLAN, G. N.; SARRIÉS, G. A. Panorama sobre modelos de liderança com base na ciência de dados: um mapeamento sistemático. **Revista de Geopolítica**, v. 17, n. 8, e3257, 2026. 
   * 🔗 [Acessar artigo na Revista de Geopolítica](https://revistageo.com.br/revgeo/article/view/3257)
